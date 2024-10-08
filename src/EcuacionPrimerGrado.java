@@ -1,6 +1,7 @@
 //package com.softtek.ecuacion;
 
 /**
+ * Eduardo Rodriguez Peralta
  * Ecuacion de primer grado
  * Solucion:  x = (c - b) / a
  * es decir:  x = (parte3 - parte2)/parte1
